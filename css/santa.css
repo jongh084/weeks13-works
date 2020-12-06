@@ -1,0 +1,83 @@
+.background {
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+} 
+
+.pet {
+	width: 15%;
+    height: 90%;
+    position: absolute;
+    top: 5%;
+    left: 0%;
+}
+
+.festival {
+	width: 15%;
+    height: 90%;
+    position: absolute;
+    top: 5%;
+    left: 85%;
+}
+
+.dog {
+     width: 70%;
+     height: 20%;
+     position: absolute;
+     top: 0%;
+     left: 15%;
+}
+.shiba {
+	width: 10%;
+    height: 15%;
+    position: absolute;
+    top: 50%;
+    left: 58%;
+}
+
+.day {
+    width: 17%;
+    height: 10%;
+    position: absolute;
+    top: 53%;
+    left: 42%;
+}
+.kogi {
+	width: 15%;
+    height: 25%;
+    position: absolute;
+    top: 48%;
+    left: 30%;
+}
+
+.green {
+    width: 25%;
+    height: 35%;
+    position: absolute;
+    top: 65%;
+    left: 15%;
+}
+
+.yellow {
+    width: 25%;
+    height: 35%;
+    position: absolute;
+    top: 65%;
+    left: 39%;
+}
+
+.red {
+    width: 25%;
+    height: 35%;
+    position: absolute;
+    top: 65%;
+    left: 62%;
+}
+
+.santa {
+     width: 50%;
+     height: 40%;
+     position: absolute;
+     top: 10%;
+     left: 25%;
+}
